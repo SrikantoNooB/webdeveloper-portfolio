@@ -9,11 +9,23 @@ body{
     color:white;
     padding:15px 35px;
 }
+.btn-irregular{
+    font-size: 20px;
+    font-weight: 700;
+    color:#FD6E0A;
+    background-color:#18181800;
+    border-radius: 5px;
+    border:1px solid;
+    border-color:#FD6E0A;
+    height: 42px;
+    width:150px;
+}
 /* nav related styles */
 nav{
     display:flex;
     justify-content: space-between;
     align-items:center;
+    margin:0 200px;
 }
 .text-primary{
     color:#FD6E0A
@@ -36,3 +48,37 @@ nav a{
     text-decoration:none;
     color:#474747;
 }
+/* header related styles */
+.header{
+    background-color:#FFF8F3;
+}
+.banner{
+    padding:30px 30px 30px 200px;
+    color:#FFF8F3;
+    display:flex;
+    align-items:center;
+}
+.banner-greeting{
+    font-size: 45px;
+    font-weight: 600;
+    color:#474747;
+}
+.banner-title{
+    font-size: 85px;
+    font-weight: 700;
+    color:#181818;
+}
+.banner-text{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color:#757575;
+    height:60px;
+    width:580px;
+}
+/* Picture related styles */
+.hardy-picture{
+    height:670px;
+    width:580px;
+}
+

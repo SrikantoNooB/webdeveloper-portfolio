@@ -136,3 +136,7 @@ nav a{
     display:flex;
     justify-content:space-around;
 }
+#what-i-do{
+    width:1140px;
+    padding:0px 265px 30px 265px;
+}

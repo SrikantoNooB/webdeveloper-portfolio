@@ -178,3 +178,19 @@ nav a{
 .download-cv{
     text-align:center;
 }
+footer{
+    display:flex;
+    margin-top: 50px;
+    text-align:left;
+    padding:230px;
+    background-color:#FFF8F3;
+    justify-content:space-between;
+
+}
+footer div input ,textarea{
+    margin-top:24px;
+    padding:18px;
+}
+.social-links a{
+    margin-right: 50px;
+}
